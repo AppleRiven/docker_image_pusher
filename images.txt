@@ -7,3 +7,4 @@ xhofe/alist:latest
 xiaoyaliu/alist:latest
 library/alpine:3.18.2
 xiaoyaliu/glue
+emby/embyserver
